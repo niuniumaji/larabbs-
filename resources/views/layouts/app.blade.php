@@ -31,4 +31,5 @@
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}"></script>
 </body>
+<div id="app" class="{{ route_class() }}-page">
 </html>
